@@ -19,7 +19,7 @@ The third task was developing a multithreaded chat application. This was one of 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6de2dc6d-08b2-4714-8c42-f66ebc238d3a" />
 
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f6cbfde9-77ca-4ac0-88ec-3384a1d3ca59" />
 
 
 
